@@ -3,6 +3,7 @@
 Full Stack Developer :D
 
 - 🌍  I'm based in San Francisco Bay Area
+- 🤖  AI4SEO Creator
 - 🖥️  See my portfolio at [leonascimento.dev](http://leonascimento.dev)
 - ✉️  You can contact me at [leonnardoenriquesn@gmail.com](mailto:leonnardoenriquesn@gmail.com)
 
